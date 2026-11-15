@@ -1,7 +1,7 @@
 # RFM Segmentation (Python & Pandas)
 
 ## Purpose
-Turning clean transactions into one scored row per customer, assigns a segment and a churn (lost Customer) flag, then merges those fields back onto the transaction table for Power BI.
+Turned clean transactions into one scored row per customer, assigns a segment and a churn (lost Customer) flag, then merges those fields back onto the transaction table for Power BI.
 
 Environment: Jupyter notebook (Python 3, pandas).
 
